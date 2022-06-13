@@ -1,0 +1,170 @@
+[
+  {
+    "role": "professional",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "Persona",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Persona",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "Persona",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "Persona",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Persona",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "Persona",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "Persona",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Persona",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "Persona",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "Persona",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "professional",
+    "resource": "Persona",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Persona",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "super",
+    "resource": "Persona",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
